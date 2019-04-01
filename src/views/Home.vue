@@ -1,18 +1,50 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+  <div class="home container">
+    <h1>Game of thrones</h1>
+    <div class="row season-grid mt-5">
+      <div class="col-6 col-sm-4 col-md-4 col-lg-3 col-xl-3" v-for="(season, i) in seasons" :key="i">
+        <season-block :season="season" @click.native="clickSeason(i+1)"/>
+      </div>
+    </div>
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
-import HelloWorld from "@/components/HelloWorld.vue";
-
+import seasonBlock from "@/components/season-block.vue";
+import data from "../data.js"
 export default {
   name: "home",
-  components: {
-    HelloWorld
+  components: { seasonBlock },
+  data() {
+    return {
+      seasons: data,
+    }
+  },
+  methods: {
+    clickSeason(i) {
+      this.$router.push('/season/'+i)
+    }
   }
 };
 </script>
+<style lang="scss" scoped>
+@import "../sass/vars.scss";
+.home {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+h1 {
+  color: $colorText;
+  font-size: 4rem;
+  font-weight: 700;
+  text-decoration: underline;
+  cursor: default;
+}
+.season-grid {
+  width: 100%;
+}
+</style>
