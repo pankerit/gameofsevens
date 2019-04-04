@@ -22,6 +22,10 @@ export default {
   },
   methods: {
     clickSeason(i) {
+      if (i === 8) {
+        this.$router.push('/season8')
+        return
+      }
       this.$router.push('/season/'+i)
     }
   }

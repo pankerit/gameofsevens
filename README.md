@@ -1,4 +1,4 @@
-# GOT_project
+# Game_of_Sevens
 
 ## Project setup
 ```

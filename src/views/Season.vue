@@ -32,7 +32,7 @@ export default {
       this.$router.push('/')
     },
     showMovie(i) {
-      this.movieUrl = episodes[this.$route.params.id-1][i],
+      this.movieUrl = episodes[this.$route.params.id-1][i]
       this.showPopup = true
     }
   },
