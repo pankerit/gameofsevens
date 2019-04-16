@@ -1,8 +1,7 @@
 <template>
   <div class="home container">
     <h1>Game of thrones</h1>
-    <img class="logo" src="/got_logo.png"></img>
-    <img class="logo" src="/got_logo.png"></img>
+    <img class="logo" src="/got_logo.png"/>
     <div class="row season-grid mt-5">
       <div class="col-6 col-sm-4 col-md-4 col-lg-3 col-xl-3" v-for="(season, i) in seasons" :key="i">
         <season-block :season="season" @click.native="clickSeason(i+1)"/>
