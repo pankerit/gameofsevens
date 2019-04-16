@@ -1,6 +1,10 @@
 <template>
   <div class="home container">
+<<<<<<< 7657a7a8728fdfafe4ca0a0975b5a97c90bd821d
     <h1>Game of thrones</h1>
+=======
+    <img class="logo" src="/got_logo.png"></img>
+>>>>>>> background
     <div class="row season-grid mt-5">
       <div class="col-6 col-sm-4 col-md-4 col-lg-3 col-xl-3" v-for="(season, i) in seasons" :key="i">
         <season-block :season="season" @click.native="clickSeason(i+1)"/>
@@ -46,5 +50,9 @@ h1 {
 }
 .season-grid {
   width: 100%;
+}
+.logo {
+  height: auto;
+  width: 30vw;
 }
 </style>
