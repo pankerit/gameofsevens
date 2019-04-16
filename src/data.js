@@ -644,7 +644,7 @@ export const episodes = [
     'https://openload.co/embed/Du44dZvMf0I/game.of.thrones.s07e06.720p.web.h264-tbs.mkv.mp4',
     'https://openload.co/embed/v9ADAnMuliA/Game.of.Thrones.S07E07.The.Dragon.and.the.Wolf.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv.mp4',],
   [
-    'https://yastatic.net/yandex-video-player-iframe-api-bundles/1.0-573/index.html?post_message_config=true&stream_url=https%3A%2F%2Fstreaming.disk.yandex.net%2Fhls%2FU2FsdGVkX19_rpyqq15K_IeDOL0vjVAn8fj9BOHCACG-QRwJL7fwXCPYRY5jRf6X2tNRIJBw4qQst7e3TTK2PkqHEBG6LdoWKDFMrThLYcLX2E7SXIfjwi-lBtZSGca7lCSVgePz7Rbb38pgOd46HViwPR029_KRuVKs8BX4cgdaJimSr5S8An-yJkOtWMSaq81DiUhkzft27TPA3XVC7BHROgvJnexiCVXT3jcCfZ4yiE5PFIDushBCnMEQ0Gpl2cR0DW9bSnP_ELwiQSPpP-t0xzgFG-GaCxGDfB3oiYU0i-gksg0m8dA_6H8ZeShj%2F586a998bee2b8%2F795e6f0bc0106dd46fd316a3baf37f5a6a731a42ab92253a70181deab64187ef%2Fmaster-playlist.m3u8&volume=100&muted=false&auto_quality=false&report=false&report_url=https%3A%2F%2Fyandex.ru%2Fsupport%2Fteletranslation%2Fform.html&preview=https%3A%2F%2Fdownloader.disk.yandex.ru%2Fpreview%2Fd19b640e3e34ba260aa584892e73d61245bc474f011933c3ff894f7dee235799%2F5cb4ffdd%2FHMoVfiu-IEyvBoWvMbw0mKlRa4PTak-7wDZFWCU8qQa8y5yXAjceU8l199hm1FNyAIHj0tolcKaMZUwYgpN-CQ%253D%253D%3Fuid%3D0%26filename%3DGame.of.Thrones.S08E01.Kings.Landing.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv%26disposition%3Dinline%26hash%3D%26limit%3D0%26content_type%3Dimage%252Fjpeg%26tknv%3Dv2%26size%3D1920x1080&host=yadi.sk&additional_params=%7B%22from%22%3A%22other%22%2C%22vsid%22%3A%22755806cffe0a690e86351691cbe3af7c2b8286f7e146d1c3aa1c7370abb6cd7b%22%7D&vsid=755806cffe0a690e86351691cbe3af7c2b8286f7e146d1c3aa1c7370abb6cd7b',
+    'https://www.fembed.com/v/80oemeq37vj',
   ]
 ]
 
