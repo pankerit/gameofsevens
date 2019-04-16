@@ -573,7 +573,7 @@ export default [
         ep: 1,
         img:
           'https://www.telegraph.co.uk/content/dam/tv/2019/03/06/Winterfell-battle-game-of-thrones-season-8_trans_NvBQzQNjv4BqfqW6igm2KYus3Tnvc1kUsGreqapuikfNyCYuptSHoIo.jpg?imwidth=480',
-        title_en: 'Dragonstone'
+        title_en: 'Game of Thrones 68'
       },
     ]
   }
@@ -654,11 +654,9 @@ export const episodes = [
     'https://openload.co/embed/Du44dZvMf0I/game.of.thrones.s07e06.720p.web.h264-tbs.mkv.mp4',
     'https://openload.co/embed/v9ADAnMuliA/Game.of.Thrones.S07E07.The.Dragon.and.the.Wolf.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv.mp4',],
   [
-    'https://yastatic.net/yandex-video-player-iframe-api-bundles/1.0-573/index.html?post_message_config=true&stream_url=https%3A%2F%2Fstreaming.disk.yandex.net%2Fhls%2FU2FsdGVkX1-YiFfUEVo1k5bha8zDkZNpEm1wV-3M-Mbb4Q_BDg8MWXcUKT5CHJMKi1BSoCo_lhVAvOLLs-0Vw5VRsV-khtJ_z6jgt0kI7tbpT4Dautdt6cishZpVqBoNFW7_TePCq8hhAR3KPt9k7Hou6G3CYetJoz7QwQmqMj-xrbYeRouizxgVP3NMwmDL593K9BQB_-D8Fef7KQPXrDUJMBDHFPmYKmS0UnlAUUocVlsQUZ4b1bh3PJQ2ZhFYnUbW7tHnRcjM-XvEutqjSpl4xEoLY6joSNe5IdW3s8I%2F586950372bef0%2F3433cd5ac0a182cc60c901a68ff1e2c62adfa61870f60bc4801cd32035e87b4f%2Fmaster-playlist.m3u8&volume=39&muted=false&auto_quality=false&report=false&report_url=https%3A%2F%2Fyandex.ru%2Fsupport%2Fteletranslation%2Fform.html&preview=%2F%2F4.downloader.disk.yandex.ru%2Fpreview%2Fb08dad356757f8459400a7d820ff97c0c74a6da464eadeba33887a7a956bbc67%2Finf%2F3vrPEEQWkCGw62AooUiSsS9uqgrKhM7XRlZ2QSlm224PSJ-T1crEuCHxMA88sW6UyOuZIn0-Sqba5g0TGb5wnA%253D%253D%3Fuid%3D306257568%26filename%3DGame.Of.Thrones.S01E01.Winter.Is.Coming.1080p.HDTV.x264-DunHD.mkv%26disposition%3Dinline%26hash%3D%26limit%3D0%26content_type%3Dimage%252Fjpeg%26tknv%3Dv2%26size%3D1920x1072&host=disk.yandex.ru&additional_params=%7B%22from%22%3A%22other%22%2C%22vsid%22%3A%224cf2c5c95cbc51a494dde999a3dcca9423d1941ea525c01b460d993b46e69b7a%22%7D&vsid=4cf2c5c95cbc51a494dde999a3dcca9423d1941ea525c01b460d993b46e69b7a',
+    'https://www.fembed.com/v/80oemeq37vj',
   ]
 ]
-<<<<<<< 7657a7a8728fdfafe4ca0a0975b5a97c90bd821d
-=======
 
 // ['https://openload.co/embed/vkzDh1MasWQ/Vuong_Game_S01E01.mp4',
 //     'https://openload.co/embed/fzsVi1ggXhs/Vuong_Game_S01E02.mp4',
@@ -670,4 +668,4 @@ export const episodes = [
 //     'https://openload.co/embed/EIQ92S_DPfs/Vuong_Game_S01E08.mp4',
 //     'https://openload.co/embed/fkB0EMd-ZYE/Vuong_Game_S01E09.mp4',
 //     'https://openload.co/embed/z7er-DzQ16E/Vuong_Game_S01E10.mp4']
->>>>>>> background
+//     'https://openload.co/embed/z7er-DzQ16E/Vuong_Game_S01E10.mp4']

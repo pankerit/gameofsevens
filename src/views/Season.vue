@@ -3,7 +3,7 @@
     <div class="back" @click="clickBack">
       <img src="https://img.icons8.com/ios/2x/left-filled.png">
     </div>
-    <h1>Game of thrones Season {{$route.params.id}}</h1>
+    <h1>Game of Thrones Season {{$route.params.id}}</h1>
     <div class="row grid">
       <div class="col-6 col-sm-4 col-md-4 col-lg-3 col-xl-3" v-for="(el, i) in episode.episodes" :key="i">
         <episode-block :episode="el" @click.native="showMovie(i)"/>
