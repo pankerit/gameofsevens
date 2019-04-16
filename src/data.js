@@ -8,64 +8,74 @@ export default [
         img:
           'https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/video-stills/season-01/ep-1-winter-is-recap-543871-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg',
         video_en: '',
-        video_ru: ''
+        video_ru: '',
+        title_en: 'Winter Is Coming'
       },
       {
         ep: 2,
         img:
           'https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/video-stills/season-01/2-recap-626413-21-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg',
         video_en: '',
-        video_ru: ''
+        video_ru: '',
+        title_en: 'The Kingsroad'
       },
       {
         ep: 3,
         img:
           'https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/video-stills/season-01/3-recap-626413-22-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg',
         video_en: '',
-        video_ru: ''
+        video_ru: '',
+        title_en: 'Lord Snow'
       },
       {
         ep: 4,
         img:
           'https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/video-stills/season-01/4-recap-543871-4-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg',
         video_en: '',
-        video_ru: ''
+        video_ru: '',
+        title_en: 'Cripples, Bastards, and Broken Things'
       },
       {
         ep: 5,
         img:
           'https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/video-stills/season-01/5-recap-543871-6-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg',
-        video_en: ''
+        video_en: '',
+        title_en: 'The Wolf and the Lion'
       },
       {
         ep: 6,
         img:
           'https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/video-stills/season-01/6-recap-543871-7-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg',
-        video_en: ''
+        video_en: '',
+        title_en: 'A Golden Crown'
       },
       {
         ep: 7,
         img:
           'https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/video-stills/season-01/7-combo-spot-543871-9-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg',
-        video_en: ''
+        video_en: '',
+        title_en: 'You Win Or You Die'
       },
       {
         ep: 8,
         img:
           'https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/video-stills/season-01/8-clip-tyrion-bronn-3005888-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg',
-        video_en: ''
+        video_en: '',
+        title_en: 'The Pointy End'
       },
       {
         ep: 9,
         img:
           'https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/video-stills/season-01/9-recap-543871-11-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg',
-        video_en: ''
+        video_en: '',
+        title_en: 'Baelor'
       },
       {
         ep: 10,
         img:
           'https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/video-stills/season-01/10-inside-episode-671385-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg',
-        video_en: ''
+        video_en: '',
+        title_en: 'Fire and Blood'
       }
     ]
   },
@@ -648,3 +658,13 @@ export const episodes = [
   ]
 ]
 
+// ['https://openload.co/embed/vkzDh1MasWQ/Vuong_Game_S01E01.mp4',
+//     'https://openload.co/embed/fzsVi1ggXhs/Vuong_Game_S01E02.mp4',
+//     'https://openload.co/embed/ReEOgcSLZQI/Vuong_Game_S01E03.mp4',
+//     'https://openload.co/embed/r2araZQDjjQ/Vuong_Game_S01E04.mp4',
+//     'https://openload.co/embed/K24X_D5fVcE/Vuong_Game_S01E05.mp4',
+//     'https://openload.co/embed/i1S3F7RehDM/Vuong_Game_S01E06.mp4',
+//     'https://openload.co/embed/8Pqevl3u1ck/Vuong_Game_S01E07.mp4',
+//     'https://openload.co/embed/EIQ92S_DPfs/Vuong_Game_S01E08.mp4',
+//     'https://openload.co/embed/fkB0EMd-ZYE/Vuong_Game_S01E09.mp4',
+//     'https://openload.co/embed/z7er-DzQ16E/Vuong_Game_S01E10.mp4']

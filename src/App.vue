@@ -15,9 +15,13 @@
   font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: $colorBg;
+  background-image: url("/bg.jpg");
+  background-size: cover; 
+  background-position: right top;
+  background-repeat: no-repeat;
   width: 100%;
   height: 100vh;
+  position: absolute;
 }
 
 </style>

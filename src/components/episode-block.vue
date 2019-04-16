@@ -1,8 +1,10 @@
 <template>
   <div class="block" :style="{backgroundImage: `url(${episode.img})`}">
-    <div class="title">
-      <h1>{{episode.title_en}}</h1>
+    <div class="layer">
+      <div class="title">
+      <h2>{{episode.title_en}}</h2>
       <h2>Episode {{episode.ep}}</h2>
+    </div>
     </div>
   </div>
 </template>
@@ -34,16 +36,25 @@ export default {
 }
 .title {
   position: absolute;
-  bottom: 0;
-  left: 50%;
-  transform: translateX(-50%);
-  color: $colorText;
+  bottom: 2px;
+  left: 10px;
+  color: $colorWhite;
   font-size: 18px;
   font-weight: 600;
+  text-align: start;
 }
 h2 {
   font-size: 16px;
-  margin-bottom: 5px;
+  margin-bottom: 2px;
+  max-width: 150px;
+}
+.layer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #000000ab;
+  height: 70px;
 }
 </style>
 
