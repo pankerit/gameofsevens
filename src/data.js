@@ -579,7 +579,7 @@ export default [
   }
 ]
 export const episodes = [
-  ['https://openload.co/embed/vkzDh1MasWQ/Vuong_Game_S01E01.mp4',
+  ['https://yadi.sk/i/bfz_77k_ePDzpg',
     'https://openload.co/embed/fzsVi1ggXhs/Vuong_Game_S01E02.mp4',
     'https://openload.co/embed/ReEOgcSLZQI/Vuong_Game_S01E03.mp4',
     'https://openload.co/embed/r2araZQDjjQ/Vuong_Game_S01E04.mp4',
