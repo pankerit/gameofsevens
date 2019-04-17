@@ -579,7 +579,7 @@ export default [
   }
 ]
 export const episodes = [
-  ['https://openload.co/embed/vkzDh1MasWQ/Vuong_Game_S01E01.mp4',
+  ['https://yastatic.net/yandex-video-player-iframe-api-bundles/1.0-573/index.html?post_message_config=true&stream_url=https%3A%2F%2Fstreaming.disk.yandex.net%2Fhls%2FU2FsdGVkX1-zg5M5yBh9xxoWfu1IuzPSz6XWWq0WxIGOC-u7xdYkWq7ZTCPlQWJr8RoFSQv71zowBUl7lUZBoJCE1fQ7OReC47QQn1ozZkf8h2yiw4Wppbfjjg_6XdrDVumepcdJ5ChIFJv0c294wPXvQUN9UR-yB0sYkuOEblRsCLpmFnYbfLGKIIjYhC-Vw9c7O-3KhxDTof7QF5zo57XSWh86072GeAbHxJYE--izh6jQ60A3GT1sZmGRKsPX46opK_4wyj4YrDGOtePWhnBRMjIjl2gP8Mq5qxfbUXAC6Kr5X_jT2uhzKis2ie5e%2F586d2fe045c10%2F98e90ec5813e4580024780bc4306265a9c0d6b5048189003df8691dad69482cc%2Fmaster-playlist.m3u8&volume=100&muted=false&auto_quality=false&report=false&report_url=https%3A%2F%2Fyandex.ru%2Fsupport%2Fteletranslation%2Fform.html&preview=https%3A%2F%2Fdownloader.disk.yandex.ru%2Fpreview%2Fa6e60e44b54916fdca0aa17b94d8bd86e4e0886b1738ce0ae9650e07665de9a0%2F5cb7b65e%2F3vrPEEQWkCGw62AooUiSsS9uqgrKhM7XRlZ2QSlm224PSJ-T1crEuCHxMA88sW6UyOuZIn0-Sqba5g0TGb5wnA%253D%253D%3Fuid%3D0%26filename%3DGame.Of.Thrones.S01E01.Winter.Is.Coming.1080p.HDTV.x264-DunHD.mkv%26disposition%3Dinline%26hash%3D%26limit%3D0%26content_type%3Dimage%252Fjpeg%26tknv%3Dv2%26size%3D1920x1072&host=yadi.sk&additional_params=%7B%22from%22%3A%22other%22%2C%22vsid%22%3A%221487adb5bee2340f98542b713d15fbc3bdc543e340104a55d45289d00482d796%22%7D&vsid=1487adb5bee2340f98542b713d15fbc3bdc543e340104a55d45289d00482d796',
     'https://openload.co/embed/fzsVi1ggXhs/Vuong_Game_S01E02.mp4',
     'https://openload.co/embed/ReEOgcSLZQI/Vuong_Game_S01E03.mp4',
     'https://openload.co/embed/r2araZQDjjQ/Vuong_Game_S01E04.mp4',
